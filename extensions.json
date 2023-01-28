@@ -1,0 +1,252 @@
+[
+    {
+        "identifier": "abusaidm.html-snippets",
+        "version": "0.2.1",
+        "enabled": true
+    },
+    {
+        "identifier": "adpyke.codesnap",
+        "version": "1.3.4",
+        "enabled": true
+    },
+    {
+        "identifier": "alefragnani.Bookmarks",
+        "version": "13.3.1",
+        "enabled": true
+    },
+    {
+        "identifier": "bmewburn.vscode-intelephense-client",
+        "version": "1.9.4",
+        "enabled": true
+    },
+    {
+        "identifier": "brapifra.phpserver",
+        "version": "3.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "christian-kohler.npm-intellisense",
+        "version": "1.4.4",
+        "enabled": true
+    },
+    {
+        "identifier": "CoenraadS.bracket-pair-colorizer",
+        "version": "1.0.62",
+        "enabled": false
+    },
+    {
+        "identifier": "ecmel.vscode-html-css",
+        "version": "1.13.1",
+        "enabled": true
+    },
+    {
+        "identifier": "eg2.vscode-npm-script",
+        "version": "0.3.29",
+        "enabled": true
+    },
+    {
+        "identifier": "emroussel.atomize-atom-one-dark-theme",
+        "version": "2.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "Equinusocio.vsc-community-material-theme",
+        "version": "1.4.4",
+        "enabled": true
+    },
+    {
+        "identifier": "Equinusocio.vsc-material-theme",
+        "version": "33.6.0",
+        "enabled": true
+    },
+    {
+        "identifier": "equinusocio.vsc-material-theme-icons",
+        "version": "2.5.0",
+        "enabled": true
+    },
+    {
+        "identifier": "esbenp.prettier-vscode",
+        "version": "9.10.4",
+        "enabled": true
+    },
+    {
+        "identifier": "formulahendry.auto-rename-tag",
+        "version": "0.1.10",
+        "enabled": true
+    },
+    {
+        "identifier": "GitHub.github-vscode-theme",
+        "version": "6.3.3",
+        "enabled": true
+    },
+    {
+        "identifier": "humao.rest-client",
+        "version": "0.25.1",
+        "enabled": true
+    },
+    {
+        "identifier": "jcbuisson.vue",
+        "version": "0.1.5",
+        "enabled": false
+    },
+    {
+        "identifier": "johnpapa.winteriscoming",
+        "version": "1.4.4",
+        "enabled": true
+    },
+    {
+        "identifier": "Katsute.settings-repository",
+        "version": "1.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "KendoUI.kendotemplatewizard",
+        "version": "2.6.0",
+        "enabled": true
+    },
+    {
+        "identifier": "mariorodeghiero.vue-theme",
+        "version": "2.0.2",
+        "enabled": true
+    },
+    {
+        "identifier": "mohd-akram.vscode-html-format",
+        "version": "0.0.5",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-dotnettools.vscode-dotnet-runtime",
+        "version": "1.6.0",
+        "enabled": true
+    },
+    {
+        "identifier": "ms-vscode.powershell",
+        "version": "2023.1.0",
+        "enabled": true
+    },
+    {
+        "identifier": "nick-rudenko.back-n-forth",
+        "version": "3.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "octref.vetur",
+        "version": "0.36.1",
+        "enabled": true
+    },
+    {
+        "identifier": "PKief.material-icon-theme",
+        "version": "4.23.1",
+        "enabled": true
+    },
+    {
+        "identifier": "redhat.java",
+        "version": "1.14.0",
+        "enabled": false
+    },
+    {
+        "identifier": "ritwickdey.LiveServer",
+        "version": "5.7.9",
+        "enabled": true
+    },
+    {
+        "identifier": "RobbOwen.synthwave-vscode",
+        "version": "0.1.15",
+        "enabled": true
+    },
+    {
+        "identifier": "sdras.night-owl",
+        "version": "2.0.1",
+        "enabled": true
+    },
+    {
+        "identifier": "sdras.vue-vscode-extensionpack",
+        "version": "0.2.0",
+        "enabled": true
+    },
+    {
+        "identifier": "sdras.vue-vscode-snippets",
+        "version": "3.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "Sophisticode.php-formatter",
+        "version": "0.2.4",
+        "enabled": true
+    },
+    {
+        "identifier": "tombonnike.vscode-status-bar-format-toggle",
+        "version": "3.1.1",
+        "enabled": true
+    },
+    {
+        "identifier": "vangware.dark-plus-material",
+        "version": "3.1.3",
+        "enabled": true
+    },
+    {
+        "identifier": "VisualStudioExptTeam.intellicode-api-usage-examples",
+        "version": "0.2.7",
+        "enabled": false
+    },
+    {
+        "identifier": "VisualStudioExptTeam.vscodeintellicode",
+        "version": "1.2.30",
+        "enabled": false
+    },
+    {
+        "identifier": "vscjava.vscode-java-debug",
+        "version": "0.47.0",
+        "enabled": false
+    },
+    {
+        "identifier": "vscjava.vscode-java-dependency",
+        "version": "0.21.1",
+        "enabled": false
+    },
+    {
+        "identifier": "vscjava.vscode-java-pack",
+        "version": "0.25.7",
+        "enabled": false
+    },
+    {
+        "identifier": "vscjava.vscode-java-test",
+        "version": "0.37.1",
+        "enabled": false
+    },
+    {
+        "identifier": "vscjava.vscode-maven",
+        "version": "0.40.4",
+        "enabled": false
+    },
+    {
+        "identifier": "Vue.volar",
+        "version": "1.0.24",
+        "enabled": true
+    },
+    {
+        "identifier": "wmaurer.vscode-jumpy",
+        "version": "0.3.1",
+        "enabled": true
+    },
+    {
+        "identifier": "xabikos.JavaScriptSnippets",
+        "version": "1.8.0",
+        "enabled": true
+    },
+    {
+        "identifier": "zhuangtongfa.material-theme",
+        "version": "3.15.6",
+        "enabled": true
+    },
+    {
+        "identifier": "zokugun.cron-tasks",
+        "version": "0.1.2",
+        "enabled": true
+    },
+    {
+        "identifier": "zokugun.sync-settings",
+        "version": "0.15.0",
+        "enabled": true
+    }
+]
