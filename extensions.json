@@ -12,7 +12,7 @@
     {
         "identifier": "akamud.vscode-theme-onedark",
         "version": "2.3.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "alefragnani.Bookmarks",
@@ -47,7 +47,7 @@
     {
         "identifier": "eamodio.gitlens",
         "version": "13.2.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ecmel.vscode-html-css",
@@ -67,7 +67,7 @@
     {
         "identifier": "EQuimper.react-native-react-redux",
         "version": "2.0.6",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "Equinusocio.vsc-community-material-theme",
@@ -97,7 +97,7 @@
     {
         "identifier": "formulahendry.dotnet",
         "version": "0.0.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "GitHub.github-vscode-theme",
@@ -107,7 +107,7 @@
     {
         "identifier": "hollowtree.vue-snippets",
         "version": "1.0.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "humao.rest-client",
@@ -127,7 +127,7 @@
     {
         "identifier": "jorgeserrano.vscode-csharp-snippets",
         "version": "1.1.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "Katsute.settings-repository",
@@ -142,7 +142,7 @@
     {
         "identifier": "liuji-jim.vue",
         "version": "0.1.5",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "mariorodeghiero.vue-theme",
@@ -152,7 +152,7 @@
     {
         "identifier": "mgmcdermott.vscode-language-babel",
         "version": "0.0.36",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "mohd-akram.vscode-html-format",
@@ -162,12 +162,12 @@
     {
         "identifier": "ms-azuretools.vscode-docker",
         "version": "1.23.3",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-dotnettools.csharp",
         "version": "1.25.4",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-dotnettools.vscode-dotnet-runtime",
@@ -177,7 +177,7 @@
     {
         "identifier": "ms-python.isort",
         "version": "2022.8.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-python.python",
@@ -187,32 +187,32 @@
     {
         "identifier": "ms-python.vscode-pylance",
         "version": "2023.1.40",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
         "version": "2022.11.1003412109",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter-keymap",
         "version": "1.0.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter-renderers",
         "version": "1.0.14",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-cell-tags",
         "version": "0.1.6",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-toolsai.vscode-jupyter-slideshow",
         "version": "0.1.5",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "ms-vscode.powershell",
@@ -322,7 +322,7 @@
     {
         "identifier": "vscjava.vscode-spring-initializr",
         "version": "0.11.2",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "Vue.volar",
@@ -332,7 +332,7 @@
     {
         "identifier": "vuetifyjs.vuetify-vscode",
         "version": "0.2.0",
-        "enabled": false
+        "enabled": true
     },
     {
         "identifier": "wmaurer.vscode-jumpy",
