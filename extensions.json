@@ -21,7 +21,7 @@
     },
     {
         "identifier": "bmewburn.vscode-intelephense-client",
-        "version": "1.9.4",
+        "version": "1.9.5",
         "enabled": true
     },
     {
@@ -36,7 +36,7 @@
     },
     {
         "identifier": "dbaeumer.vscode-eslint",
-        "version": "2.2.6",
+        "version": "2.4.0",
         "enabled": true
     },
     {
@@ -186,7 +186,7 @@
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.1.40",
+        "version": "2023.2.10",
         "enabled": true
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "identifier": "vscjava.vscode-java-debug",
-        "version": "0.47.0",
+        "version": "0.48.0",
         "enabled": true
     },
     {
