@@ -136,7 +136,7 @@
     },
     {
         "identifier": "KendoUI.kendotemplatewizard",
-        "version": "2.6.0",
+        "version": "2.7.0",
         "enabled": true
     },
     {
@@ -181,17 +181,17 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2022.20.2",
+        "version": "2023.2.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.2.10",
+        "version": "2023.2.20",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2022.11.1003412109",
+        "version": "2023.1.2010391206",
         "enabled": true
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "identifier": "PKief.material-icon-theme",
-        "version": "4.23.1",
+        "version": "4.24.0",
         "enabled": true
     },
     {
