@@ -29,6 +29,5 @@
   "typescript.updateImportsOnFileMove.enabled": "always",
   "editor.accessibilitySupport": "off",
   "settings-repository.repository": "https://github.com/oliverbalog/vscodesttings.git",
-  "settings-repository.branch": "main",
-  "window.zoomLevel": 1
+  "settings-repository.branch": "main"
 }
