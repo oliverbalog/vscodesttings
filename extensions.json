@@ -191,7 +191,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.1.2010391206",
+        "version": "2023.2.1000592019",
         "enabled": true
     },
     {
@@ -201,7 +201,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter-renderers",
-        "version": "1.0.14",
+        "version": "1.0.15",
         "enabled": true
     },
     {
