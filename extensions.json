@@ -40,6 +40,21 @@
         "enabled": true
     },
     {
+        "identifier": "DEVSENSE.composer-php-vscode",
+        "version": "1.30.12484",
+        "enabled": true
+    },
+    {
+        "identifier": "DEVSENSE.phptools-vscode",
+        "version": "1.30.12484",
+        "enabled": true
+    },
+    {
+        "identifier": "DEVSENSE.profiler-php-vscode",
+        "version": "1.30.12484",
+        "enabled": true
+    },
+    {
         "identifier": "dsznajder.es7-react-js-snippets",
         "version": "4.4.3",
         "enabled": true
