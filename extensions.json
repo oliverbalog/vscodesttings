@@ -81,7 +81,7 @@
     },
     {
         "identifier": "equinusocio.vsc-material-theme-icons",
-        "version": "2.5.0",
+        "version": "2.6.1",
         "enabled": true
     },
     {
@@ -181,12 +181,12 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.2.0",
+        "version": "2023.4.0",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.2.40",
+        "version": "2023.3.10",
         "enabled": true
     },
     {
@@ -196,7 +196,7 @@
     },
     {
         "identifier": "ms-toolsai.jupyter-keymap",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "enabled": true
     },
     {
@@ -296,7 +296,7 @@
     },
     {
         "identifier": "vscjava.vscode-java-debug",
-        "version": "0.48.0",
+        "version": "0.49.0",
         "enabled": true
     },
     {
@@ -306,12 +306,12 @@
     },
     {
         "identifier": "vscjava.vscode-java-pack",
-        "version": "0.25.7",
+        "version": "0.25.8",
         "enabled": true
     },
     {
         "identifier": "vscjava.vscode-java-test",
-        "version": "0.37.1",
+        "version": "0.38.1",
         "enabled": true
     },
     {
@@ -356,7 +356,7 @@
     },
     {
         "identifier": "zokugun.sync-settings",
-        "version": "0.15.0",
+        "version": "0.15.1",
         "enabled": true
     }
 ]
