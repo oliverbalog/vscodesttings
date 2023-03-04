@@ -260,6 +260,11 @@
         "enabled": true
     },
     {
+        "identifier": "rifi2k.format-html-in-php",
+        "version": "1.7.0",
+        "enabled": true
+    },
+    {
         "identifier": "ritwickdey.LiveServer",
         "version": "5.7.9",
         "enabled": true
