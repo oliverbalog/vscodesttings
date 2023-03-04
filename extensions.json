@@ -41,17 +41,17 @@
     },
     {
         "identifier": "DEVSENSE.composer-php-vscode",
-        "version": "1.30.12484",
+        "version": "1.31.12740",
         "enabled": true
     },
     {
         "identifier": "DEVSENSE.phptools-vscode",
-        "version": "1.30.12484",
+        "version": "1.31.12740",
         "enabled": true
     },
     {
         "identifier": "DEVSENSE.profiler-php-vscode",
-        "version": "1.30.12484",
+        "version": "1.31.12740",
         "enabled": true
     },
     {
@@ -166,7 +166,7 @@
     },
     {
         "identifier": "mgmcdermott.vscode-language-babel",
-        "version": "0.0.36",
+        "version": "0.0.37",
         "enabled": true
     },
     {
