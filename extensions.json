@@ -61,7 +61,7 @@
     },
     {
         "identifier": "eamodio.gitlens",
-        "version": "13.3.1",
+        "version": "13.3.2",
         "enabled": true
     },
     {
@@ -196,17 +196,17 @@
     },
     {
         "identifier": "ms-python.python",
-        "version": "2023.4.0",
+        "version": "2023.4.1",
         "enabled": true
     },
     {
         "identifier": "ms-python.vscode-pylance",
-        "version": "2023.3.10",
+        "version": "2023.3.20",
         "enabled": true
     },
     {
         "identifier": "ms-toolsai.jupyter",
-        "version": "2023.2.1000592019",
+        "version": "2023.2.1200692131",
         "enabled": true
     },
     {
@@ -236,7 +236,7 @@
     },
     {
         "identifier": "msjsdiag.vscode-react-native",
-        "version": "1.10.0",
+        "version": "1.10.2",
         "enabled": true
     },
     {
@@ -366,7 +366,7 @@
     },
     {
         "identifier": "zhuangtongfa.material-theme",
-        "version": "3.15.6",
+        "version": "3.15.8",
         "enabled": true
     },
     {
